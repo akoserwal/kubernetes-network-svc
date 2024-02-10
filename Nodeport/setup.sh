@@ -1,0 +1,1 @@
+kind create cluster --config k3.yaml
